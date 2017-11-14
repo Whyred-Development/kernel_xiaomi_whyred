@@ -321,3 +321,8 @@ config PM_GENERIC_DOMAINS_OF
 
 config CPU_PM
 	bool
+
+config QUICK_THAW_FINGERPRINTD
+	bool "Quickly resume fingerprintd"
+	depends on SUSPEND
+	default y
