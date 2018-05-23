@@ -1,0 +1,1 @@
+gdrive upload out/arch/arm64/boot/Image.gz-dtb
