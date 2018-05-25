@@ -9,3 +9,7 @@ Codex mainly focuses on stability and security. The main aim of this kernel is t
 
 ## Need some features?
 Ah, everyone likes to experience new features. If you want me to add something new, let me know. I'll always look into users concerns though I can't guarantee in adding them (if they break the stability).
+
+## For any info, contact: 
+- **Telegram**: @AxelBlaz3
+- **XDA**: AxelBlaz3
