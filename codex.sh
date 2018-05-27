@@ -77,12 +77,6 @@ echo -e "***********************************************$nocol"
 
 make O=out -j$(nproc --all)
 
-echo -e "$yellow***********************************************"
-echo "          Installing Modules        "
-echo -e "***********************************************$nocol"
-
-make O=out modules_install
-
 if ! [ -a $ZIMAGE ];
 then
 echo -e "$Red Kernel Compilation failed! Fix the errors! $nocol"
