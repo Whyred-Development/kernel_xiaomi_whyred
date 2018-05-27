@@ -1,6 +1,6 @@
-# Codex-Kernel
+# Whyred-OSS
 
-Codex mainly focuses on stability and security. The main aim of this kernel is to always be up to date with CAF upstream.  
+Stock kernel from Xiaomi's OOS with merged linux-stable upstream v4.4.133.
 
 ## Bugs that needs to be addressed
 - ######  ̶W̶i̶F̶i̶ ̶(̶W̶i̶l̶l̶ ̶b̶e̶ ̶f̶i̶x̶e̶d̶ ̶s̶o̶o̶n̶!̶ ̶W̶I̶P̶)̶
@@ -11,9 +11,3 @@ Codex mainly focuses on stability and security. The main aim of this kernel is t
 ## Bugs addressed so far
 - ###### WiFi
 
-## Need some features?
-Ah, everyone likes to experience new features. If you want me to add something new, let me know. I'll always look into users concerns though I can't guarantee in adding them (if they break the stability).
-
-## For any info, contact: 
-- **Telegram**: @AxelBlaz3
-- **XDA**: AxelBlaz3
