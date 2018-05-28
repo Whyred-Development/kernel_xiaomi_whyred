@@ -13,6 +13,7 @@ Stock kernel from Xiaomi's OOS with merged linux-stable upstream v4.4.133.
 
 ## How to compile with Clang?
 - Assuming **_out_** is your output directory and **_whyred-perf_defconfig_** is your default defconfig
+- `mkdir -p out`
 - `make O=out clean`
 - `make O=out mrproper`
 - `make O=out ARCH=arm64 whyred-perf_defconfig`
