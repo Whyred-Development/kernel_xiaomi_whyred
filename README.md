@@ -1,6 +1,6 @@
 # Whyred-OSS
 
-Stock kernel from Xiaomi's OOS with merged linux-stable upstream v4.4.133.
+Stock kernel from Xiaomi's OOS with merged linux-stable upstream v4.4.135.
 
 ## How to compile with Clang?
 - Assuming **_out_** is your output directory and **_whyred-perf_defconfig_** is your default defconfig
